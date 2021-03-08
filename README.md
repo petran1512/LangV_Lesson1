@@ -1,6 +1,6 @@
 # LangV_Lesson1
 
-![IEK]((https://iekagdim.gr/wp-content/uploads/2020/07/4.jpg)
+![IEK](https://iekagdim.gr/wp-content/uploads/2020/07/4.jpg)
 
 ## ΣΤΟΙΧΕΙA ΠΟΥ ΣΥΜΠΛΗΡΩΝΕΙ Ο KATAΡΤΙΖΟΜΕΝΟΣ / Η ΚΑΤΑΡΤΙΖΟΜΕΝΗ
 
